@@ -1,0 +1,19 @@
+{
+  "name": "hogan-browser",
+  "version": "2.0.0",
+  "description": "hogan.js for browser",
+  "main": "hogan-browser.js",
+  "scripts": {
+    "postinstall": "node scripts/postinstall.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hogan.js",
+    "hogan"
+  ],
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "hogan.js": "3.0.2"
+  }
+}
