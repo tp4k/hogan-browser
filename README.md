@@ -1,13 +1,13 @@
-#hogan-browser
+# hogan-browser
 
 Allows you to require hogan.js for browser (dist/hogan-3.0.2.amd.js),
 not for node (lib/hogan.js)
 
-##Install
+## Install
 
     npm install hogan-browser
 
-##Usage
+## Usage
 
 ```js
 var hogan = require('hogan-browser');

@@ -1,10 +1,11 @@
 {
   "name": "hogan-browser",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "hogan.js for browser",
   "main": "hogan-browser.js",
   "scripts": {
     "postinstall": "node scripts/postinstall.js",
+    "release": "node scripts/release.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
